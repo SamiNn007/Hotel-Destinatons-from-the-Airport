@@ -1,0 +1,349 @@
+city,lat,lng,country,capital,population,log_airport,lat_airport,source_airport
+Lisbon,38.7452,-9.1604,Portugal,primary,506654.0,-9.1354,38.7756,Humberto Delgado Airport
+Sintra,38.7974,-9.3904,Portugal,minor,377835.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova de Gaia,41.1333,-8.6167,Portugal,minor,302295.0,-9.1354,38.7756,Humberto Delgado Airport
+Porto,41.1495,-8.6108,Portugal,admin,237591.0,-9.1354,38.7756,Humberto Delgado Airport
+Braga,41.5333,-8.4167,Portugal,admin,181494.0,-9.1354,38.7756,Humberto Delgado Airport
+Matosinhos,41.2077,-8.6674,Portugal,minor,175478.0,-9.1354,38.7756,Humberto Delgado Airport
+Amadora,38.75,-9.2333,Portugal,minor,175136.0,-9.1354,38.7756,Humberto Delgado Airport
+Almada,38.6803,-9.1583,Portugal,minor,174030.0,-9.1354,38.7756,Humberto Delgado Airport
+Oeiras,38.697,-9.3017,Portugal,minor,172120.0,-9.1354,38.7756,Humberto Delgado Airport
+Gondomar,41.15,-8.5333,Portugal,minor,168027.0,-9.1354,38.7756,Humberto Delgado Airport
+Guimarães,41.445,-8.2908,Portugal,minor,158124.0,-9.1354,38.7756,Humberto Delgado Airport
+Odivelas,38.8,-9.1833,Portugal,minor,144549.0,-9.1354,38.7756,Humberto Delgado Airport
+Coimbra,40.2111,-8.4291,Portugal,admin,143396.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Franca de Xira,38.95,-8.9833,Portugal,minor,136886.0,-9.1354,38.7756,Humberto Delgado Airport
+Maia,41.2333,-8.6167,Portugal,minor,135306.0,-9.1354,38.7756,Humberto Delgado Airport
+Setúbal,38.5243,-8.8926,Portugal,admin,121185.0,-9.1354,38.7756,Humberto Delgado Airport
+Funchal,32.65,-16.9167,Portugal,admin,111892.0,-9.1354,38.7756,Humberto Delgado Airport
+Viseu,40.6667,-7.9167,Portugal,admin,99274.0,-9.1354,38.7756,Humberto Delgado Airport
+Valongo,41.1833,-8.5,Portugal,minor,93858.0,-9.1354,38.7756,Humberto Delgado Airport
+Viana do Castelo,41.7,-8.8333,Portugal,admin,88725.0,-9.1354,38.7756,Humberto Delgado Airport
+Paredes,41.2,-8.3333,Portugal,minor,86854.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila do Conde,41.35,-8.75,Portugal,minor,79533.0,-9.1354,38.7756,Humberto Delgado Airport
+Torres Vedras,39.0833,-9.2667,Portugal,minor,79465.0,-9.1354,38.7756,Humberto Delgado Airport
+Aveiro,40.6389,-8.6553,Portugal,admin,78450.0,-9.1354,38.7756,Humberto Delgado Airport
+Queluz,38.7566,-9.2545,Portugal,,78273.0,-9.1354,38.7756,Humberto Delgado Airport
+Mafra,38.9333,-9.3333,Portugal,minor,76685.0,-9.1354,38.7756,Humberto Delgado Airport
+Penafiel,41.2,-8.2833,Portugal,minor,72265.0,-9.1354,38.7756,Humberto Delgado Airport
+Loulé,37.144,-8.0235,Portugal,minor,70622.0,-9.1354,38.7756,Humberto Delgado Airport
+Ponta Delgada,37.74,-25.67,Portugal,admin,68809.0,-9.1354,38.7756,Humberto Delgado Airport
+Moita,38.65,-8.9833,Portugal,minor,66029.0,-9.1354,38.7756,Humberto Delgado Airport
+Faro,37.0161,-7.935,Portugal,admin,64560.0,-9.1354,38.7756,Humberto Delgado Airport
+Póvoa de Varzim,41.3916,-8.7571,Portugal,minor,63408.0,-9.1354,38.7756,Humberto Delgado Airport
+Palmela,38.5667,-8.9,Portugal,minor,62831.0,-9.1354,38.7756,Humberto Delgado Airport
+Santarém,39.2369,-8.685,Portugal,admin,62200.0,-9.1354,38.7756,Humberto Delgado Airport
+Figueira da Foz,40.1508,-8.8618,Portugal,minor,62125.0,-9.1354,38.7756,Humberto Delgado Airport
+Felgueiras,41.3667,-8.2,Portugal,minor,58065.0,-9.1354,38.7756,Humberto Delgado Airport
+Paços de Ferreira,41.2833,-8.3833,Portugal,minor,56340.0,-9.1354,38.7756,Humberto Delgado Airport
+Castelo Branco,39.823,-7.4931,Portugal,admin,56109.0,-9.1354,38.7756,Humberto Delgado Airport
+Évora,38.5667,-7.9,Portugal,admin,55620.0,-9.1354,38.7756,Humberto Delgado Airport
+Portimão,37.1333,-8.5333,Portugal,minor,55614.0,-9.1354,38.7756,Humberto Delgado Airport
+Pombal,39.9162,-8.6279,Portugal,minor,55217.0,-9.1354,38.7756,Humberto Delgado Airport
+Marco de Canavezes,41.1833,-8.15,Portugal,minor,53450.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Real,41.3002,-7.7398,Portugal,admin,51850.0,-9.1354,38.7756,Humberto Delgado Airport
+Covilhã,40.2833,-7.5,Portugal,minor,51797.0,-9.1354,38.7756,Humberto Delgado Airport
+Caldas da Rainha,39.4069,-9.1363,Portugal,minor,51729.0,-9.1354,38.7756,Humberto Delgado Airport
+Montijo,38.7049,-8.9757,Portugal,minor,51222.0,-9.1354,38.7756,Humberto Delgado Airport
+Rio Tinto,41.1833,-8.5667,Portugal,,50713.0,-9.1354,38.7756,Humberto Delgado Airport
+Fafe,41.45,-8.1667,Portugal,minor,50633.0,-9.1354,38.7756,Humberto Delgado Airport
+Sesimbra,38.4437,-9.0996,Portugal,minor,49500.0,-9.1354,38.7756,Humberto Delgado Airport
+Amora,38.6265,-9.1189,Portugal,,48629.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Verde,41.65,-8.4333,Portugal,minor,47888.0,-9.1354,38.7756,Humberto Delgado Airport
+Lousada,41.2833,-8.2833,Portugal,minor,47387.0,-9.1354,38.7756,Humberto Delgado Airport
+Corroios,38.65,-9.15,Portugal,,46475.0,-9.1354,38.7756,Humberto Delgado Airport
+Ourém,39.65,-8.5833,Portugal,minor,45932.0,-9.1354,38.7756,Humberto Delgado Airport
+Olhão,37.0278,-7.8389,Portugal,minor,45396.0,-9.1354,38.7756,Humberto Delgado Airport
+Leiria,39.7444,-8.8072,Portugal,admin,45112.0,-9.1354,38.7756,Humberto Delgado Airport
+Ponte de Lima,41.7667,-8.5833,Portugal,minor,43498.0,-9.1354,38.7756,Humberto Delgado Airport
+Santa Cruz,32.675,-16.8309,Portugal,,43005.0,-9.1354,38.7756,Humberto Delgado Airport
+Guarda,40.5364,-7.2683,Portugal,admin,42541.0,-9.1354,38.7756,Humberto Delgado Airport
+Chaves,41.7399,-7.4707,Portugal,minor,41243.0,-9.1354,38.7756,Humberto Delgado Airport
+Tomar,39.6,-8.4167,Portugal,minor,40677.0,-9.1354,38.7756,Humberto Delgado Airport
+Ílhavo,40.6,-8.6667,Portugal,minor,40349.0,-9.1354,38.7756,Humberto Delgado Airport
+Trofa,41.3374,-8.5596,Portugal,minor,38999.0,-9.1354,38.7756,Humberto Delgado Airport
+Mafamude,41.1152,-8.6036,Portugal,,38940.0,-9.1354,38.7756,Humberto Delgado Airport
+Ermezinde,41.2133,-8.5472,Portugal,,38798.0,-9.1354,38.7756,Humberto Delgado Airport
+Silves,37.1833,-8.4333,Portugal,minor,37126.0,-9.1354,38.7756,Humberto Delgado Airport
+Torres Novas,39.4833,-8.5333,Portugal,minor,36717.0,-9.1354,38.7756,Humberto Delgado Airport
+Beja,38.0333,-7.8833,Portugal,admin,35854.0,-9.1354,38.7756,Humberto Delgado Airport
+Agualva,38.77,-9.2988,Portugal,,35824.0,-9.1354,38.7756,Humberto Delgado Airport
+Câmara de Lobos,32.65,-16.9667,Portugal,,35666.0,-9.1354,38.7756,Humberto Delgado Airport
+Angra do Heroísmo,38.6558,-27.2153,Portugal,,35402.0,-9.1354,38.7756,Humberto Delgado Airport
+Bragança,41.8,-6.75,Portugal,admin,35341.0,-9.1354,38.7756,Humberto Delgado Airport
+Esposende,41.5333,-8.7833,Portugal,minor,34254.0,-9.1354,38.7756,Humberto Delgado Airport
+Ribeira Grande,37.8167,-25.5167,Portugal,,32112.0,-9.1354,38.7756,Humberto Delgado Airport
+Espinho,41.01,-8.64,Portugal,minor,31786.0,-9.1354,38.7756,Humberto Delgado Airport
+Lagos,37.1,-8.6667,Portugal,minor,31049.0,-9.1354,38.7756,Humberto Delgado Airport
+Anadia,40.4333,-8.4333,Portugal,minor,29150.0,-9.1354,38.7756,Humberto Delgado Airport
+Benavente,38.9833,-8.8167,Portugal,minor,29019.0,-9.1354,38.7756,Humberto Delgado Airport
+Massamá,38.7568,-9.2748,Portugal,,28112.0,-9.1354,38.7756,Humberto Delgado Airport
+Estarreja,40.75,-8.5667,Portugal,minor,26997.0,-9.1354,38.7756,Humberto Delgado Airport
+Lamego,41.0833,-7.8667,Portugal,minor,26691.0,-9.1354,38.7756,Humberto Delgado Airport
+Estoril,38.7057,-9.3977,Portugal,,26399.0,-9.1354,38.7756,Humberto Delgado Airport
+Montemor-o-Velho,40.1667,-8.6833,Portugal,minor,26171.0,-9.1354,38.7756,Humberto Delgado Airport
+Tavira,37.1309,-7.6506,Portugal,minor,26167.0,-9.1354,38.7756,Humberto Delgado Airport
+Odemira,37.5833,-8.6333,Portugal,minor,26066.0,-9.1354,38.7756,Humberto Delgado Airport
+Albergaria-a-Velha,40.6936,-8.4806,Portugal,minor,25252.0,-9.1354,38.7756,Humberto Delgado Airport
+Portalegre,39.3167,-7.4167,Portugal,admin,24930.0,-9.1354,38.7756,Humberto Delgado Airport
+Porto de Mós,39.6,-8.8167,Portugal,minor,24342.0,-9.1354,38.7756,Humberto Delgado Airport
+Mirandela,41.4833,-7.1833,Portugal,minor,23850.0,-9.1354,38.7756,Humberto Delgado Airport
+Vizela,41.3833,-8.3,Portugal,,23736.0,-9.1354,38.7756,Humberto Delgado Airport
+Caniço,32.6412,-16.8504,Portugal,,23361.0,-9.1354,38.7756,Humberto Delgado Airport
+Oliveira do Bairro,40.5167,-8.5,Portugal,minor,23028.0,-9.1354,38.7756,Humberto Delgado Airport
+Vale de Cambra,40.85,-8.4,Portugal,minor,22864.0,-9.1354,38.7756,Humberto Delgado Airport
+Arcos de Valdevez,41.85,-8.4167,Portugal,minor,22847.0,-9.1354,38.7756,Humberto Delgado Airport
+Póvoa de Lanhoso,41.5667,-8.2667,Portugal,minor,21886.0,-9.1354,38.7756,Humberto Delgado Airport
+Azambuja,39.0667,-8.8667,Portugal,minor,21814.0,-9.1354,38.7756,Humberto Delgado Airport
+São João da Madeira,40.9,-8.5,Portugal,minor,21713.0,-9.1354,38.7756,Humberto Delgado Airport
+Cacém,38.7704,-9.3081,Portugal,,21289.0,-9.1354,38.7756,Humberto Delgado Airport
+Rio Maior,39.3333,-8.9333,Portugal,minor,21192.0,-9.1354,38.7756,Humberto Delgado Airport
+Praia da Vitória,38.7333,-27.0667,Portugal,,21035.0,-9.1354,38.7756,Humberto Delgado Airport
+Elvas,38.88,-7.1628,Portugal,minor,20706.0,-9.1354,38.7756,Humberto Delgado Airport
+Baião,41.1667,-8.0333,Portugal,minor,20522.0,-9.1354,38.7756,Humberto Delgado Airport
+Cinfães,41.0667,-8.0833,Portugal,minor,20427.0,-9.1354,38.7756,Humberto Delgado Airport
+Entroncamento,39.4667,-8.4667,Portugal,minor,20206.0,-9.1354,38.7756,Humberto Delgado Airport
+Celorico de Basto,41.3869,-8.0022,Portugal,minor,20098.0,-9.1354,38.7756,Humberto Delgado Airport
+Alfena,41.2395,-8.5244,Portugal,,20000.0,-9.1354,38.7756,Humberto Delgado Airport
+Soure,40.05,-8.6333,Portugal,minor,19245.0,-9.1354,38.7756,Humberto Delgado Airport
+Monção,42.0733,-8.48,Portugal,minor,19230.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Real de Santo António,37.2,-7.4167,Portugal,minor,19156.0,-9.1354,38.7756,Humberto Delgado Airport
+Amares,41.6333,-8.35,Portugal,minor,18889.0,-9.1354,38.7756,Humberto Delgado Airport
+Sacavém,38.7944,-9.1053,Portugal,,18469.0,-9.1354,38.7756,Humberto Delgado Airport
+Lousã,40.1125,-8.2469,Portugal,minor,17604.0,-9.1354,38.7756,Humberto Delgado Airport
+Alcochete,38.7553,-8.9608,Portugal,minor,17569.0,-9.1354,38.7756,Humberto Delgado Airport
+Montemor-o-Novo,38.65,-8.2167,Portugal,minor,17437.0,-9.1354,38.7756,Humberto Delgado Airport
+Peso da Régua,41.1632,-7.789,Portugal,minor,17131.0,-9.1354,38.7756,Humberto Delgado Airport
+Condeixa-a-Nova,40.1167,-8.5,Portugal,minor,17080.0,-9.1354,38.7756,Humberto Delgado Airport
+São Pedro do Sul,40.75,-8.0667,Portugal,minor,16851.0,-9.1354,38.7756,Humberto Delgado Airport
+Ponte de Sôr,39.25,-8.0167,Portugal,minor,16722.0,-9.1354,38.7756,Humberto Delgado Airport
+Cabeceiras de Basto,41.5167,-8.0,Portugal,minor,16710.0,-9.1354,38.7756,Humberto Delgado Airport
+Quarteira,37.0695,-8.1006,Portugal,,16131.0,-9.1354,38.7756,Humberto Delgado Airport
+Sertã,39.8008,-8.1003,Portugal,minor,15880.0,-9.1354,38.7756,Humberto Delgado Airport
+Macedo de Cavaleiros,41.5333,-6.95,Portugal,minor,15776.0,-9.1354,38.7756,Humberto Delgado Airport
+Serpa,37.9333,-7.5833,Portugal,minor,15623.0,-9.1354,38.7756,Humberto Delgado Airport
+Castro Daire,40.9,-7.9333,Portugal,minor,15339.0,-9.1354,38.7756,Humberto Delgado Airport
+Penacova,40.2667,-8.2667,Portugal,minor,15251.0,-9.1354,38.7756,Humberto Delgado Airport
+Moura,38.1397,-7.4505,Portugal,minor,15167.0,-9.1354,38.7756,Humberto Delgado Airport
+Nazaré,39.6,-9.0667,Portugal,minor,15158.0,-9.1354,38.7756,Humberto Delgado Airport
+Horta,38.5333,-28.6333,Portugal,,14994.0,-9.1354,38.7756,Humberto Delgado Airport
+Falagueira,38.759,-9.2199,Portugal,,14530.0,-9.1354,38.7756,Humberto Delgado Airport
+Cadaval,39.25,-9.1,Portugal,minor,14525.0,-9.1354,38.7756,Humberto Delgado Airport
+Estremoz,38.8422,-7.5881,Portugal,minor,14318.0,-9.1354,38.7756,Humberto Delgado Airport
+Sines,37.9536,-8.8712,Portugal,minor,14238.0,-9.1354,38.7756,Humberto Delgado Airport
+Valença,42.0282,-8.6339,Portugal,minor,14127.0,-9.1354,38.7756,Humberto Delgado Airport
+Gouveia,40.5,-7.6,Portugal,minor,14046.0,-9.1354,38.7756,Humberto Delgado Airport
+Nelas,40.5167,-7.85,Portugal,minor,14037.0,-9.1354,38.7756,Humberto Delgado Airport
+Gafanha da Nazaré,40.6333,-8.7167,Portugal,,14021.0,-9.1354,38.7756,Humberto Delgado Airport
+Arruda dos Vinhos,38.9833,-9.0667,Portugal,minor,13391.0,-9.1354,38.7756,Humberto Delgado Airport
+Ribeira Brava,32.6722,-17.0639,Portugal,,13375.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Pouca de Aguiar,41.4833,-7.6333,Portugal,minor,13187.0,-9.1354,38.7756,Humberto Delgado Airport
+Ansião,39.9167,-8.4333,Portugal,minor,13128.0,-9.1354,38.7756,Humberto Delgado Airport
+Miranda do Corvo,40.1,-8.3333,Portugal,minor,13098.0,-9.1354,38.7756,Humberto Delgado Airport
+Alcácer do Sal,38.3725,-8.5133,Portugal,minor,13046.0,-9.1354,38.7756,Humberto Delgado Airport
+Vieira do Minho,41.6333,-8.1333,Portugal,minor,12997.0,-9.1354,38.7756,Humberto Delgado Airport
+Mira,40.4285,-8.7363,Portugal,minor,12465.0,-9.1354,38.7756,Humberto Delgado Airport
+Sátão,40.7333,-7.7167,Portugal,minor,12444.0,-9.1354,38.7756,Humberto Delgado Airport
+Arcozelo,41.0555,-8.6395,Portugal,,12393.0,-9.1354,38.7756,Humberto Delgado Airport
+Sever do Vouga,40.7167,-8.3667,Portugal,minor,12356.0,-9.1354,38.7756,Humberto Delgado Airport
+Tábua,40.3667,-8.0333,Portugal,minor,12071.0,-9.1354,38.7756,Humberto Delgado Airport
+Alijó,41.2764,-7.4749,Portugal,minor,11942.0,-9.1354,38.7756,Humberto Delgado Airport
+Vendas Novas,38.6833,-8.45,Portugal,minor,11846.0,-9.1354,38.7756,Humberto Delgado Airport
+Costa de Caparica,38.6446,-9.2356,Portugal,,11707.0,-9.1354,38.7756,Humberto Delgado Airport
+Óbidos,39.3585,-9.176,Portugal,minor,11689.0,-9.1354,38.7756,Humberto Delgado Airport
+Calheta,32.7333,-17.1667,Portugal,,11521.0,-9.1354,38.7756,Humberto Delgado Airport
+Resende,41.1,-7.95,Portugal,minor,11364.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Franca do Campo,37.7167,-25.4333,Portugal,,11229.0,-9.1354,38.7756,Humberto Delgado Airport
+Reguengos de Monsaraz,38.4167,-7.5333,Portugal,minor,10828.0,-9.1354,38.7756,Humberto Delgado Airport
+Valadares,41.0997,-8.6403,Portugal,,10678.0,-9.1354,38.7756,Humberto Delgado Airport
+São Brás de Alportel,37.15,-7.8833,Portugal,minor,10662.0,-9.1354,38.7756,Humberto Delgado Airport
+Murtosa,40.7369,-8.6386,Portugal,minor,10585.0,-9.1354,38.7756,Humberto Delgado Airport
+Moimenta da Beira,40.9819,-7.6158,Portugal,minor,10212.0,-9.1354,38.7756,Humberto Delgado Airport
+Sobral de Monte Agraço,39.0167,-9.15,Portugal,minor,10156.0,-9.1354,38.7756,Humberto Delgado Airport
+Trancoso,40.7833,-7.35,Portugal,minor,9878.0,-9.1354,38.7756,Humberto Delgado Airport
+Carregal do Sal,40.4333,-8.0,Portugal,,9835.0,-9.1354,38.7756,Humberto Delgado Airport
+Idanha-a-Nova,39.9167,-7.2333,Portugal,minor,9716.0,-9.1354,38.7756,Humberto Delgado Airport
+Pinhel,40.7833,-7.0667,Portugal,minor,9627.0,-9.1354,38.7756,Humberto Delgado Airport
+Melgaço,42.1167,-8.2667,Portugal,minor,9213.0,-9.1354,38.7756,Humberto Delgado Airport
+Vinhais,41.8167,-7.0,Portugal,minor,9066.0,-9.1354,38.7756,Humberto Delgado Airport
+Almargem,38.8475,-9.2714,Portugal,,8983.0,-9.1354,38.7756,Humberto Delgado Airport
+Aver-o-Mar,41.4039,-8.769,Portugal,,8961.0,-9.1354,38.7756,Humberto Delgado Airport
+Ponta do Sol,32.6811,-17.1042,Portugal,,8862.0,-9.1354,38.7756,Humberto Delgado Airport
+Ferreira do Zêzere,39.7,-8.2833,Portugal,minor,8619.0,-9.1354,38.7756,Humberto Delgado Airport
+Torre de Moncorvo,41.2,-7.1333,Portugal,minor,8572.0,-9.1354,38.7756,Humberto Delgado Airport
+Campo Maior,39.0167,-7.0667,Portugal,minor,8456.0,-9.1354,38.7756,Humberto Delgado Airport
+Argoncilhe,41.0167,-8.55,Portugal,,8420.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Viçosa,38.75,-7.4333,Portugal,minor,8319.0,-9.1354,38.7756,Humberto Delgado Airport
+Proença-a-Nova,39.75,-7.9167,Portugal,minor,8314.0,-9.1354,38.7756,Humberto Delgado Airport
+Tarouca,41.0167,-7.7833,Portugal,minor,8048.0,-9.1354,38.7756,Humberto Delgado Airport
+Penalva do Castelo,40.6667,-7.6833,Portugal,minor,7956.0,-9.1354,38.7756,Humberto Delgado Airport
+São João da Pesqueira,41.1333,-7.4,Portugal,minor,7874.0,-9.1354,38.7756,Humberto Delgado Airport
+Santana,32.8,-16.8667,Portugal,,7719.0,-9.1354,38.7756,Humberto Delgado Airport
+Alpiarça,39.2593,-8.585,Portugal,minor,7702.0,-9.1354,38.7756,Humberto Delgado Airport
+Celorico da Beira,40.6333,-7.4,Portugal,minor,7693.0,-9.1354,38.7756,Humberto Delgado Airport
+Joane,41.4333,-8.4167,Portugal,,7528.0,-9.1354,38.7756,Humberto Delgado Airport
+Mondim de Basto,41.4,-7.95,Portugal,minor,7493.0,-9.1354,38.7756,Humberto Delgado Airport
+Miranda do Douro,41.5,-6.2667,Portugal,minor,7482.0,-9.1354,38.7756,Humberto Delgado Airport
+Nisa,39.5167,-7.65,Portugal,minor,7450.0,-9.1354,38.7756,Humberto Delgado Airport
+Almodôvar,37.5114,-8.0603,Portugal,minor,7449.0,-9.1354,38.7756,Humberto Delgado Airport
+Arraiolos,38.7229,-7.9843,Portugal,minor,7363.0,-9.1354,38.7756,Humberto Delgado Airport
+Santa Marta de Penaguião,41.2,-7.7833,Portugal,minor,7356.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova da Barquinha,39.45,-8.4333,Portugal,minor,7322.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova de Foz Côa,41.0833,-7.1333,Portugal,minor,7312.0,-9.1354,38.7756,Humberto Delgado Airport
+Castelões de Cepeda,41.2008,-8.3306,Portugal,,7299.0,-9.1354,38.7756,Humberto Delgado Airport
+Alvaiázere,39.8333,-8.3833,Portugal,minor,7287.0,-9.1354,38.7756,Humberto Delgado Airport
+Poiares,40.2167,-8.25,Portugal,minor,7281.0,-9.1354,38.7756,Humberto Delgado Airport
+Castro Verde,37.6976,-8.0819,Portugal,minor,7276.0,-9.1354,38.7756,Humberto Delgado Airport
+Mértola,37.6333,-7.65,Portugal,minor,7274.0,-9.1354,38.7756,Humberto Delgado Airport
+Terras de Bouro,41.7167,-8.3,Portugal,minor,7253.0,-9.1354,38.7756,Humberto Delgado Airport
+Almeida,40.7259,-6.9056,Portugal,minor,7242.0,-9.1354,38.7756,Humberto Delgado Airport
+Redondo,38.6464,-7.5464,Portugal,minor,7031.0,-9.1354,38.7756,Humberto Delgado Airport
+Castro Marim,37.2167,-7.45,Portugal,minor,6747.0,-9.1354,38.7756,Humberto Delgado Airport
+Ribeira de Pena,41.5167,-7.8,Portugal,minor,6544.0,-9.1354,38.7756,Humberto Delgado Airport
+Portel,38.3,-7.7,Portugal,minor,6428.0,-9.1354,38.7756,Humberto Delgado Airport
+Carrazeda de Anciães,41.25,-7.3,Portugal,minor,6373.0,-9.1354,38.7756,Humberto Delgado Airport
+Sabrosa,41.2651,-7.5751,Portugal,minor,6361.0,-9.1354,38.7756,Humberto Delgado Airport
+Tabuaço,41.1167,-7.5667,Portugal,minor,6350.0,-9.1354,38.7756,Humberto Delgado Airport
+Povoação,37.746,-25.245,Portugal,,6327.0,-9.1354,38.7756,Humberto Delgado Airport
+Armamar,41.1167,-7.6833,Portugal,minor,6297.0,-9.1354,38.7756,Humberto Delgado Airport
+Figueira de Castelo Rodrigo,40.9,-6.9667,Portugal,minor,6260.0,-9.1354,38.7756,Humberto Delgado Airport
+São Martinho,38.8125,-9.4208,Portugal,,6226.0,-9.1354,38.7756,Humberto Delgado Airport
+Madalena,38.5356,-28.5234,Portugal,,6049.0,-9.1354,38.7756,Humberto Delgado Airport
+Monchique,37.3167,-8.6,Portugal,minor,6045.0,-9.1354,38.7756,Humberto Delgado Airport
+Celeiroz,41.5136,-8.4522,Portugal,,6000.0,-9.1354,38.7756,Humberto Delgado Airport
+Penela,40.0333,-8.3833,Portugal,minor,5983.0,-9.1354,38.7756,Humberto Delgado Airport
+Murça,41.4,-7.45,Portugal,minor,5952.0,-9.1354,38.7756,Humberto Delgado Airport
+Vidigueira,38.2,-7.8,Portugal,minor,5932.0,-9.1354,38.7756,Humberto Delgado Airport
+Aljezur,37.3178,-8.8,Portugal,minor,5884.0,-9.1354,38.7756,Humberto Delgado Airport
+Alandroal,38.7,-7.4,Portugal,minor,5843.0,-9.1354,38.7756,Humberto Delgado Airport
+Olival,41.0711,-8.5272,Portugal,,5812.0,-9.1354,38.7756,Humberto Delgado Airport
+Viana do Alentejo,38.3342,-8.0014,Portugal,minor,5743.0,-9.1354,38.7756,Humberto Delgado Airport
+Oleiros,39.9167,-7.9167,Portugal,minor,5721.0,-9.1354,38.7756,Humberto Delgado Airport
+Penamacor,40.1667,-7.1667,Portugal,minor,5682.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila do Porto,36.945,-25.145,Portugal,,5552.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila de Porto Santo,33.0619,-16.3564,Portugal,,5483.0,-9.1354,38.7756,Humberto Delgado Airport
+Aguiar da Beira,40.818,-7.5414,Portugal,minor,5473.0,-9.1354,38.7756,Humberto Delgado Airport
+Golegã,39.4,-8.4833,Portugal,minor,5465.0,-9.1354,38.7756,Humberto Delgado Airport
+Riachos,39.4453,-8.5142,Portugal,,5420.0,-9.1354,38.7756,Humberto Delgado Airport
+Velas,38.6817,-28.2079,Portugal,,5398.0,-9.1354,38.7756,Humberto Delgado Airport
+Ourique,37.65,-8.225,Portugal,minor,5389.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila do Bispo,37.0825,-8.9119,Portugal,minor,5258.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova de Paiva,40.85,-7.7333,Portugal,minor,5176.0,-9.1354,38.7756,Humberto Delgado Airport
+Terrujem,38.8511,-9.3747,Portugal,,5113.0,-9.1354,38.7756,Humberto Delgado Airport
+Alfândega da Fé,41.35,-6.9667,Portugal,minor,5104.0,-9.1354,38.7756,Humberto Delgado Airport
+Sousel,38.9532,-7.6757,Portugal,minor,5074.0,-9.1354,38.7756,Humberto Delgado Airport
+Fornos de Algodres,40.6167,-7.5333,Portugal,minor,4989.0,-9.1354,38.7756,Humberto Delgado Airport
+Mora,38.9333,-8.15,Portugal,minor,4978.0,-9.1354,38.7756,Humberto Delgado Airport
+Caranguejeira,39.75,-8.7,Portugal,,4972.0,-9.1354,38.7756,Humberto Delgado Airport
+Nordeste,37.8333,-25.15,Portugal,,4937.0,-9.1354,38.7756,Humberto Delgado Airport
+Cuba,38.15,-7.8833,Portugal,minor,4878.0,-9.1354,38.7756,Humberto Delgado Airport
+Real,41.5565,-8.441,Portugal,,4871.0,-9.1354,38.7756,Humberto Delgado Airport
+Pampilhosa da Serra,40.05,-7.95,Portugal,minor,4756.0,-9.1354,38.7756,Humberto Delgado Airport
+Lajes,38.4,-28.25,Portugal,,4711.0,-9.1354,38.7756,Humberto Delgado Airport
+Vimioso,41.5667,-6.5167,Portugal,minor,4669.0,-9.1354,38.7756,Humberto Delgado Airport
+Avis,39.05,-7.8833,Portugal,minor,4571.0,-9.1354,38.7756,Humberto Delgado Airport
+Mesão Frio,41.1667,-7.8833,Portugal,minor,4433.0,-9.1354,38.7756,Humberto Delgado Airport
+Valpaços,41.6075,-7.31,Portugal,minor,4421.0,-9.1354,38.7756,Humberto Delgado Airport
+Santa Cruz da Graciosa,39.0833,-28.0167,Portugal,,4391.0,-9.1354,38.7756,Humberto Delgado Airport
+Góis,40.15,-8.1167,Portugal,minor,4260.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova de Milfontes,37.7167,-8.7833,Portugal,,4258.0,-9.1354,38.7756,Humberto Delgado Airport
+Constância,39.4833,-8.3333,Portugal,minor,4056.0,-9.1354,38.7756,Humberto Delgado Airport
+Sardoal,39.5333,-8.1667,Portugal,minor,3939.0,-9.1354,38.7756,Humberto Delgado Airport
+Arcozelo,41.7917,-8.5944,Portugal,,3932.0,-9.1354,38.7756,Humberto Delgado Airport
+Lorvão,40.2594,-8.3168,Portugal,,3928.0,-9.1354,38.7756,Humberto Delgado Airport
+Pedrógão Grande,39.9167,-8.15,Portugal,minor,3915.0,-9.1354,38.7756,Humberto Delgado Airport
+Freixo de Espada à Cinta,41.0833,-6.8,Portugal,minor,3780.0,-9.1354,38.7756,Humberto Delgado Airport
+Calheta,38.6,-28.0167,Portugal,,3773.0,-9.1354,38.7756,Humberto Delgado Airport
+Armação de Pêra,37.1,-8.3667,Portugal,,3770.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila Velha de Ródão,39.65,-7.6667,Portugal,minor,3521.0,-9.1354,38.7756,Humberto Delgado Airport
+Marvão,39.3942,-7.3772,Portugal,minor,3512.0,-9.1354,38.7756,Humberto Delgado Airport
+Canas de Senhorim,40.5167,-7.9,Portugal,,3509.0,-9.1354,38.7756,Humberto Delgado Airport
+Tramagal,39.4583,-8.2461,Portugal,,3500.0,-9.1354,38.7756,Humberto Delgado Airport
+Vila de Rei,39.6833,-8.15,Portugal,minor,3452.0,-9.1354,38.7756,Humberto Delgado Airport
+Manteigas,40.4,-7.5333,Portugal,minor,3430.0,-9.1354,38.7756,Humberto Delgado Airport
+Riba de Ave,41.3933,-8.3883,Portugal,,3425.0,-9.1354,38.7756,Humberto Delgado Airport
+Fronteira,39.05,-7.65,Portugal,minor,3410.0,-9.1354,38.7756,Humberto Delgado Airport
+Castelo de Vide,39.4167,-7.45,Portugal,minor,3407.0,-9.1354,38.7756,Humberto Delgado Airport
+São Roque do Pico,38.5167,-28.3167,Portugal,,3388.0,-9.1354,38.7756,Humberto Delgado Airport
+Monforte,39.05,-7.4333,Portugal,minor,3329.0,-9.1354,38.7756,Humberto Delgado Airport
+Valado de Frades,39.5892,-9.0194,Portugal,,3308.0,-9.1354,38.7756,Humberto Delgado Airport
+Fermentelos,40.5667,-8.5167,Portugal,,3258.0,-9.1354,38.7756,Humberto Delgado Airport
+Castanheira de Pêra,40.0,-8.2167,Portugal,minor,3191.0,-9.1354,38.7756,Humberto Delgado Airport
+Arronches,39.1167,-7.2833,Portugal,minor,3165.0,-9.1354,38.7756,Humberto Delgado Airport
+São Vicente,32.7967,-17.0433,Portugal,,3136.0,-9.1354,38.7756,Humberto Delgado Airport
+Trouxemil,40.2756,-8.4528,Portugal,,2999.0,-9.1354,38.7756,Humberto Delgado Airport
+Ferreiros,41.6308,-8.3686,Portugal,,2879.0,-9.1354,38.7756,Humberto Delgado Airport
+Trofa,40.6114,-8.4673,Portugal,,2732.0,-9.1354,38.7756,Humberto Delgado Airport
+Carvoeiro,37.1,-8.4667,Portugal,,2721.0,-9.1354,38.7756,Humberto Delgado Airport
+Mourão,38.3333,-7.3667,Portugal,minor,2663.0,-9.1354,38.7756,Humberto Delgado Airport
+Alvito,38.25,-7.9833,Portugal,minor,2504.0,-9.1354,38.7756,Humberto Delgado Airport
+Barrancos,38.1307,-6.9761,Portugal,minor,1834.0,-9.1354,38.7756,Humberto Delgado Airport
+Caminha,41.8779,-8.8382,Portugal,minor,1346.0,-9.1354,38.7756,Humberto Delgado Airport
+Boticas,41.6889,-7.665,Portugal,minor,1065.0,-9.1354,38.7756,Humberto Delgado Airport
+Barcelos,41.5347,-8.615,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Loures,38.8309,-9.1684,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Santo Tirso,41.3428,-8.4775,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Famalicão,41.4144,-8.5222,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Cartaxo,39.1619,-8.7864,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Fundão,40.1392,-7.5019,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Oliveira de Azemeis,40.84,-8.4764,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Ovar,40.8597,-8.6253,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Lagoa,37.1347,-8.4528,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Albufeira,37.0889,-8.2511,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Águeda,40.5745,-8.448,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Peniche,39.3633,-9.3792,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Borba,38.8056,-7.4547,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Marinha Grande,39.7478,-8.9322,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Salvaterra de Magos,39.0253,-8.7933,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Barreiro,38.6631,-9.0725,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Cascais,38.6972,-9.4217,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Ponte da Barca,41.8078,-8.4194,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Amarante,41.2728,-8.0825,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Aljustrel,37.8775,-8.1653,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Alcobaça,39.5522,-8.9775,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Oliveira do Hospital,40.3597,-7.8617,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Abrantes,39.4667,-8.2,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Santiago do Cacém,38.0167,-8.7,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Cantanhede,40.3464,-8.5942,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Grândola,38.1833,-8.5667,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mangualde,40.6058,-7.7658,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Arouca,40.9289,-8.2436,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Feira,40.9254,-8.5428,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Seia,40.4203,-7.7033,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Coruche,38.9581,-8.5283,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Chamusca,39.3594,-8.4808,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Crato,39.2844,-7.6444,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Belmonte,40.3583,-7.3514,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Vagos,40.5553,-8.6814,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Tondela,40.5164,-8.0808,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Arganil,40.2183,-8.0542,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Gavião,39.465,-7.9369,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Santa Comba Dão,40.3981,-8.1303,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mogadouro,41.3392,-6.72,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Paredes de Coura,41.9111,-8.5597,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Seixal,38.6428,-9.1061,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Alenquer,39.0531,-9.0092,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mêda,40.9631,-7.2631,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Vouzela,40.7231,-8.1122,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mação,39.5533,-7.9986,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Trofa,41.4878,-7.9613,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Alter do Chão,39.1974,-7.6589,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mortágua,40.3947,-8.2328,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Bombarral,39.2672,-9.1581,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Vila Nova de Cerveira,41.94,-8.7444,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Sabugal,40.3519,-7.0894,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Almeirim,39.209,-8.6164,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Alcanena,39.4589,-8.6689,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Mealhada,40.3781,-8.4514,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Sernancelhe,40.9003,-7.4942,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Batalha,39.6603,-8.8247,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Figueiró dos Vinhos,39.9019,-8.275,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Vila Flor,41.3067,-7.1522,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Castelo de Paiva,41.063,-8.2647,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Penedono,40.9831,-7.3894,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Oliveira de Frades,40.7314,-8.1767,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Vizela,41.3828,-8.2647,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Montalegre,41.8239,-7.79,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Alcoutim,37.4717,-7.4722,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Lourinhã,39.2425,-9.3122,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
+Ferreira do Alentejo,38.05,-8.1,Portugal,minor,,-9.1354,38.7756,Humberto Delgado Airport
